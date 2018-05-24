@@ -1,0 +1,13 @@
+Domù | Pøíbìh | Autor | Støedozemì | Zpracování | Význam |
+
+Pøíbìh-| pán prstenù | silmarillion | hobit | èasová osa |
+
+Autor- | život | rodokmen |
+         život (http://tolkien.cz/?page_id=507) - prolog | dìtství | studentská léta | válka | úspìch a stáøí 
+
+Støedozemì- tvorové (národy støedozemì) | postavy | jazyky | artefakty | historie | mapa støedozemì |
+                                                    jazyky- elfština | trpaslièí | ...
+Zpracování- kniha | film | divadelní gra???
+                    [film- | historie | autor | nový zéland (mapa lokací)]---jedna html
+
+Význam- Jeden Prsten ---- jedna html

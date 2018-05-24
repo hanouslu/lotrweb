@@ -1,0 +1,12 @@
+animace textu - animate.css
+https://css-tricks.com/snippets/html/html5-page-structure/
+wikipedie,tolkien - informace
+http://tolkien.cz/?page_id=467 - odkazy
+http://ran.ge/2009/11/11/css-trick-turning-a-background-image-into-a-clickable-link/
+http://lotrproject.com/
+https://www.imdb.com/title/tt0167260/mediaindex - obrázky
+https://kelw-hearts.deviantart.com/art/Map-of-Middle-Earth-314492746, http://erion.blog.cz/0902/mapy-stredozeme - hlavní navigace
+https://www.reddit.com/r/tolkienfans/comments/5z90ce/discussion_who_is_your_favorite_tolkien_artist/
+https://wall.alphacoders.com/by_sub_category.php?id=167161&name=Lord+of+the+Rings+Wallpapers - pattern
+https://netickque.deviantart.com/art/Gate-of-Moria-hi-res-wallpaper-374854965
+https://www.w3schools.com/howto/howto_css_dropdown.asp
