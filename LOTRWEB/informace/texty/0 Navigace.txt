@@ -1,13 +1,13 @@
-Domù | Pøíbìh | Autor | Støedozemì | Zpracování | Vıznam |
+DomÅ¯ | PÅ™Ã­bÄ›h | Autor | StÅ™edozemÄ› | ZpracovÃ¡nÃ­ | VÃ½znam |
 
-Pøíbìh-| pán prstenù | silmarillion | hobit | èasová osa |
+PÅ™Ã­bÄ›h-| pÃ¡n prstenÅ¯ | silmarillion | hobit | nedokonÄenÃ© pÅ™Ã­bÄ›hy | ÄasovÃ¡ osa |
 
-Autor- | ivot | rodokmen |
-         ivot (http://tolkien.cz/?page_id=507) - prolog | dìtství | studentská léta | válka | úspìch a stáøí 
+Autor- | Å¾ivot | rodokmen |
+         Å¾ivot (http://tolkien.cz/?page_id=507) - prolog | dÄ›tstvÃ­ | studentskÃ¡ lÃ©ta | vÃ¡lka | ÃºspÄ›ch a stÃ¡Å™Ã­ 
 
-Støedozemì- tvorové (národy støedozemì) | postavy | jazyky | artefakty | historie | mapa støedozemì |
-                                                    jazyky- elfština | trpaslièí | ...
-Zpracování- kniha | film | divadelní gra???
-                    [film- | historie | autor | novı zéland (mapa lokací)]---jedna html
+StÅ™edozemÄ›- tvorovÃ© (nÃ¡rody stÅ™edozemÄ›) | postavy | jazyky | artefakty | historie | mapa stÅ™edozemÄ› |
+                                                    jazyky- elfÅ¡tina | trpasliÄÃ­ | ...
+ZpracovÃ¡nÃ­- kniha | film | divadelnÃ­ gra???
+                    [film- | historie | autor | novÃ½ zÃ©land (mapa lokacÃ­)]---jedna html
 
-Vıznam- Jeden Prsten ---- jedna html
+VÃ½znam- Jeden Prsten ---- jedna html
